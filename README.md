@@ -43,4 +43,6 @@ An interface cannot contain a constructor (as it cannot be used to create object
    
 4) Note: To implement multiple interfaces, separate them with a comma.
 
+   Source: https://www.w3schools.com/java/java_interface.asp
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
